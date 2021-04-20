@@ -1,0 +1,76 @@
+.heading {
+    font-size: 24px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 38px black;
+    color: white;
+    font-family: 'Monda', sans-serif;
+}
+
+.heading:hover {
+    color: white;
+}
+
+.heading_div {
+    float: none;
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 38px gray;
+    font-family: 'Pacifico', cursive;
+}
+
+.heading_div_2 {
+    font-size: 19px;
+    font-family: 'Pacifico', cursive;
+}
+
+body {
+    overflow: scroll;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color:grey;
+    line-height: 3;
+    text-align: center;
+}
+
+.ob{
+    font-size: 20px;
+    font-family: 'Monda', sans-serif;
+    float: none;
+    width: 130px;
+    cursor: default;
+}
+
+.ac{
+    font-size: 20px;
+    font-family: 'Monda', sans-serif;
+    float: none;
+    width: 130px;
+    cursor: default;
+}
+
+canvas{
+    border: 5px , solid , white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 200px;
+}
+
+.result_para_tag{
+    font-size: 20px;
+    box-shadow: 5px 5px 5px grey;
+    font-family: 'Monda', sans-serif;
+}
+
+.result_para_2_tag{
+    font-size: 20px;
+    box-shadow: 5px 5px 5px grey;
+    font-family: 'Monda', sans-serif;
+}
